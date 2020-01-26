@@ -1,0 +1,1 @@
+App used to score squash matches.
